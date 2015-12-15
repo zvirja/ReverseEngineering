@@ -1,0 +1,9 @@
+[BEGIN]
+Fixes issue with language layout that is reset after reboot.
+
+[CLASSES]
+{"original": "F2 21 08 00 39 01 11 00 71 00 ?? ?? 00 00 0A 01 38 01 0B 00"}
+{"replaced": "?? ?? ?? ?? ?? ?? ?? ?? 00 00 00 00 00 00 00 00 00 00 00 00"}
+
+[END]
+Patch applied!
